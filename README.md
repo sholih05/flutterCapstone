@@ -1,6 +1,6 @@
 # projek
 
-A new Flutter project.
+mobile deteksi hama tanaman sawi
 
 ## Getting Started
 
